@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://etherscan.io/address/0x7f268357a8c2552623316e2562d90e642bb538e5",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Kangaroo Punch Club",
+  "SYMBOL": "KPCNFT",
+  "MAX_SUPPLY": 9999,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.com/invite/kangaroopunchclub",
+  "SHOW_BACKGROUND": true
+}
